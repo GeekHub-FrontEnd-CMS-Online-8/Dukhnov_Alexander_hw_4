@@ -1,2 +1,198 @@
-body { margin: 0; }
-	
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*#wrapper {
+	width: 2000px;
+  height: 4051px;
+}*/
+
+.blokone {
+	width: 2000px;
+  height: 72px;
+  background-color: #194277;
+ }
+
+.title {
+	width: 346px;
+  height: 12px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 36px;
+  margin-left: 745px;
+  text-align: center;
+}
+
+.title button {
+	background: #fff;
+  border-radius: 15px;
+  border: 1px solid #fff;
+  color: #194277;
+  font-size: 12px;
+  font-weight: 700px;
+  padding: 0 10px;
+  width: 112px;
+  height: 30px;
+}
+
+.bloktwo {
+	width: 2000px;
+	height: 800px;
+	background-color: #3695ff;
+  background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+}
+
+.menu {
+	width: 25px;
+  height: 19px;
+  margin-left: 1544px;
+  padding-top: 31px;
+}
+
+.circle {
+	text-align: center;
+	padding-top: 64px;
+}
+
+h1 {
+	color: #ffffff;
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 60px;
+  text-transform: uppercase;
+  /* Text style for "free portf" */
+  letter-spacing: 1.25px;
+  margin-left: 595px;
+  padding-top: 76px;
+}
+
+.lor {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 35px;
+  /* Text style for "L, orem ip" */
+  letter-spacing: 0.4px;
+  margin-left: 618px;
+  padding-top: 42px;
+}
+
+.hire {
+	margin-left: 899px;
+  border-radius: 28px;
+  background-color: #ffffff;
+  margin-top: 40px;
+  padding: 0 10px;
+  width: 204px;
+  height: 55px;
+}
+
+.arrow {
+	width: 19px;
+  height: 32px;
+  opacity: 0.4;
+  margin-left: 991px;
+  margin-top: 44px;
+}
+
+.bloktree {
+	width: 2000px;
+	height: 405px;
+	background-color: #ffffff;
+}
+
+.bloktree h2 {
+	width: 210px;
+  height: 38px;
+  color: #3677fd;
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 35.12px;
+  margin-left: 895px;
+}
+
+h2 {
+	margin-top: 98px;
+}
+
+.lore{
+	width: 1067px;
+  height: 85px;
+  color: #5a5a5a;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 35px;
+  margin-left: 467px;
+  margin-top: 69px;
+}
+
+.blokfourth {
+	width: 2000px;
+  height: 1145px;
+  background-color: #f1f8ff;
+}
+
+.blokfourth h2 {
+  color: #3677fd;
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 35.12px;
+  margin-top: 99px;
+  margin-left: 909px;
+}
+
+ul {
+	margin-top: 155px;
+}
+
+ul.icon li {
+	display: inline;
+	margin-left: 460px;
+}
+
+ul.namet li {
+display: inline;
+margin-left: 370px;
+}
+
+a {
+	text-decoration: none;
+	width: 232px;
+  height: 18px;
+  color: #3677fd;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+ul.fat li {
+	display: inline;
+	width: 355px;
+}
+
+footer {
+	width: 2000px;
+  height: 247px;
+  background-color: #e8f3ff;
+  background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+}
+
+.need {
+	width: 870px;
+  height: 47px;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 65px;
+  /* Text style for "Need a gra" */
+  color: #ffffff;
+  font-family: "Lato Light";
+  font-weight: 300;
+  margin-left: 432px;
+}
+
